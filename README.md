@@ -1,7 +1,7 @@
-<h1 align="center">📑Challenge 05 Compass </h1>
+<h1 align="center">📑Challenge 06 Compass </h1>
 
 
-<h4 align="center">Repositório criado para o envio das atividades da Sprint 05 - Compass
+<h4 align="center">Repositório criado para o envio das atividades da Sprint 06 - Compass
 
 <h3 align="center">Tecnologias e Ferramentas utilizadas:</h3>
 <p align="center"><img src='https://static1.smartbear.co/cucumber/media/images/logos/icons/cucumber-open-icon.svg'width="40" height="40"/><img src='https://img.icons8.com/external-flat-icons-maxicons/85/000000/external-animal-life-of-amazon-flat-flat-icons-maxicons-9.png'width="40" height="40"/> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> <img src="https://img.icons8.com/color/96/000000/visual-studio--v1.png" alt="git" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> </a><a href="https://rspec.info/" target="_blank" rel="noreferrer"> <img src="https://rspec.info/images/logo.png" alt="rspec" width="40" height="40"/> </a> </p> 
