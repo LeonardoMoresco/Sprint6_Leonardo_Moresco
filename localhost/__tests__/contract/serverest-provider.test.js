@@ -19,8 +19,8 @@ describe('API Pact test - Integration between \'Front\' and \'ServeRest - API Re
     it('Should return with sucess search with existing user', async () => {
       const expectedUsuario = {
         nome: 'Fulano da Silva',
-        email: 'adm@logado.com',
-        password: 'Teste@123',
+        email: 'fulano@qa.com',
+        password: 'teste',
         administrador: 'true',
         _id: '0uxuPY0cbmQhpEz1',
       };

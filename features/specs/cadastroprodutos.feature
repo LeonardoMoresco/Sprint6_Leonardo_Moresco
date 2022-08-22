@@ -14,9 +14,10 @@ Funcionalidade: Cadastro um novo produto
     Quando o usuário administrador preencher os campos "<Nome:>", "<Preço:>", "<Descrição:>" e "<Quantidade:>"
     Então deverá exibir a '<msg:>'
     Exemplos:
-    |Nome:  |Preço: |Descrição:         |Quantidade: |msg:                               | 
-    |       |500    |Acústica muito boa |10          |Nome não pode ficar em branco      |
-    |Violão |       |Acústica muito boa |10          |Preco é obrigatório                |
-    |Violão |500    |                   |10          |Descricao não pode ficar em branco |
-    |Violão |500    |Acústica muito boa |            |Quantidade é obrigatório           |
-    |Violão |50     |Acústica muito boa |10          |Já existe produto com esse nome    |
+    |Nome:                |Preço: |Descrição:         |Quantidade: |msg:                               | 
+    |                     |500    |Acústica muito boa |10          |Nome não pode ficar em branco      |
+    |Violão               |       |Acústica muito boa |10          |Preco é obrigatório                |
+    |Violão               |500    |                   |10          |Descricao não pode ficar em branco |
+    |Violão               |500    |Acústica muito boa |            |Quantidade é obrigatório           |
+    |Violão               |500    |Acústica muito boa |10          |Lista dos Produtos                 |
+    |Logitech MX Vertical |470    |Mouse              |382         |Já existe produto com esse nome    |

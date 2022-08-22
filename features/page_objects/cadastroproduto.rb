@@ -6,4 +6,5 @@ class CadastroProduto < SitePrism::Page
     element :quantidade, '#quantity'
     element :btn_cadastrar, '#root > div > div > div > form > div:nth-child(8) > div > button'
     element :btn_produto, '#root > div > div > p.row > div:nth-child(4) > div > div > a'
+    $cont_product = 0
 end
