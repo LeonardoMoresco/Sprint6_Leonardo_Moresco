@@ -28,6 +28,7 @@
 - require 'selenium-webdriver', '~> 3.142'
 - require 'rspec'
 - require 'faker'
+- require 'pry'
   ```
 ## 📥 Após adicionar as Gems, abra o CMDER e execute o seguinte código
   ```sh
