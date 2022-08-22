@@ -42,13 +42,14 @@ bundle install
 * Ruby Solargraph
 
 ## ⚙ Automações realizadas
-* Buscar produto por nome
-* Cadastro de usuário
-* Cadastro de usuário como administrador
-* Cadastro de produto
-* Adicioar produto da lista de compra
-* Remover produto da lista de compra
-* Login de usuário
+* Buscar produto por nome;
+* Cadastro de usuário;
+* Cadastro de usuário como administrador;
+* Cadastro de produto;
+* Adicioar produto da lista de compra;
+* Remover produto da lista de compra;
+* Login de usuário;
+* Login de usuário como administrador;
   
 ## 💻 Os testes foram executados em LocalHost, portanto execute o comando no CMD antes de executar os testes
 * Dentro da pasta localhost abra o CMD e execute o comando abaixo:
@@ -66,6 +67,8 @@ cucumber -t@'Tag_do_teste'
 ```sh
 cucumber
 ```
+  
+## 🎉Agradecimentos
 
 ## 📝 Licença
 Copyright © 2022 [Leonardo Moresco](https://github.com/LeonardoMoresco).<br />
