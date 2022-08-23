@@ -45,9 +45,9 @@ bundle install
 ## ⚙ Automações realizadas
 * Buscar produto por nome;
 * Cadastro de usuário;
-* Cadastro de usuário como administrador;
+* Cadastro de usuário administrador;
 * Cadastro de produto;
-* Adicioar produto da lista de compra;
+* Adicionar produto da lista de compra;
 * Remover produto da lista de compra;
 * Login de usuário;
 * Login de usuário como administrador;
@@ -70,7 +70,8 @@ cucumber
 ```
   
 ## 🎉Agradecimentos
-
+  Primeiramente gostaria de agradecer ao Luís por todo o apoio e suporte ao longo de todo plano de bolsas e também gostaria de agradecer ao colega Gabriel Vanz pelas ajudas para implementar ajustes ao meu código.
+  
 ## 📝 Licença
 Copyright © 2022 [Leonardo Moresco](https://github.com/LeonardoMoresco).<br />
 Copyright © 2022 [Compass](https://compass.uol/).<br /> 
