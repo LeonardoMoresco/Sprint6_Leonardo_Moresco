@@ -1,5 +1,4 @@
 #language: pt
-@todos_os_testes
 @cadastroproduto
 Funcionalidade: Cadastro um novo produto
     Como usuário administrador

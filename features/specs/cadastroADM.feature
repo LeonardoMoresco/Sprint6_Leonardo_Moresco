@@ -1,5 +1,4 @@
 #language: pt
-@todos_os_testes
 @cadastroADM
 Funcionalidade: Cadastro de administrador
     Como usuário da aplicação Front - ServeRest

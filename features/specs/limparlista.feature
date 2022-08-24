@@ -1,5 +1,4 @@
 #language: pt
-@todos_os_testes
 @limparlista
 Funcionalidade: Limpar lista de compras
     Como usuário do e-commerce Front - ServeRest

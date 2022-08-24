@@ -1,6 +1,6 @@
 #language: pt
-@todos_os_testes
 @cadastro
+@selecionado
 Funcionalidade: Cadastro de usuário
     Como usuário da aplicação Front - ServeRest
     Quero realizar um cadastro

@@ -1,6 +1,6 @@
 #language: pt
-@todos_os_testes
 @login
+@selecionado
 Funcionalidade: Login de usuário
     Como usuário do e-commerce Front - ServeRest
     Quero realizar login 

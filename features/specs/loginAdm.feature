@@ -1,5 +1,4 @@
 #language: pt
-@todos_os_testes
 @loginAdm
 Funcionalidade: Login de usuário como administrador
     Como usuário administrador do e-commerce Front - ServeRest

@@ -1,5 +1,4 @@
 #language: pt
-@todos_os_testes
 @buscarproduto
 Funcionalidade: Busca de produtos por nome
     Como um usuário do ecommerce ServeRest

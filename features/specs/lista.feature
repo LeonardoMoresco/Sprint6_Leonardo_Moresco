@@ -1,6 +1,6 @@
 #language: pt
-@todos_os_testes
 @lista
+@selecionado
 Funcionalidade: Adicionar produtos a lista de compra
     Como usuário do e-commerce Front - ServeRest
     Quero adicionar um produto a minha lista de compra
