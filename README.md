@@ -46,6 +46,7 @@ bundle install
 * Buscar produto por nome;
 * Cadastro de usuário;
 * Cadastro de usuário administrador;
+* Cadastro de usuário com a conta de administrador;
 * Cadastro de produto;
 * Adicionar produto da lista de compra;
 * Remover produto da lista de compra;
@@ -70,7 +71,7 @@ cucumber
 ```
   
 ## 🎉Agradecimentos
-  Primeiramente gostaria de agradecer ao Luís por todo o apoio e suporte ao longo de todo plano de bolsas e também gostaria de agradecer ao colega Gabriel Vanz pelas ajudas para implementar ajustes ao meu código.
+  Primeiramente gostaria de agradecer ao nosso Scrum Master Luís por todo o apoio e suporte ao longo de todo plano de bolsas, também gostaria de agradecer a todos os colegas e especialmente ao colega Gabriel Vanz pelas ajudas para implementar ajustes ao meu código.
   
 ## 📝 Licença
 Copyright © 2022 [Leonardo Moresco](https://github.com/LeonardoMoresco).<br />
