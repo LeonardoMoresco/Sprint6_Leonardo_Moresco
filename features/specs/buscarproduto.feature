@@ -1,5 +1,6 @@
 #language: pt
 @buscarproduto
+@selecionado
 Funcionalidade: Busca de produtos por nome
     Como um usuário do ecommerce ServeRest
     Quero pesquisar por produtos na home

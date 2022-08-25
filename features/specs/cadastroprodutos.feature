@@ -1,5 +1,6 @@
 #language: pt
 @cadastroproduto
+@selecionado
 Funcionalidade: Cadastro um novo produto
     Como usuário administrador
     Quero cadastrar novos produtos
